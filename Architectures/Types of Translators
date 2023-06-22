@@ -1,0 +1,26 @@
+Types of Programming Language
+=============================
+1.SQL Structure Query Language
+2.HTML Hyper Text Markup Language (N0) (Tags)
+3.Object Oriented Programming Language (Java, Python, Javascript etc)
+4.Scripting Language (Javascript, Python)
+
+Types of Tranlators
+=================== 
+java:
+
+eg : 
+String username = "sai kiran"
+String password = "admin1234"
+
+Low Level(Machine Language) and High Levevl (Human Language)
+
+1.Compiler S/w : read the code and converts to bytecode for execution
+2.Interpreter S/w : runs the code line by line 
+
+Java(Compiler/Interpreter), Python(Interpreter), Javascript(Interpreter), PHP(Interpreter)
+
+=====
+Create Github Account
+Create AWS Account
+Create Azure Account

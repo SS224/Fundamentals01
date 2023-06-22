@@ -1,0 +1,70 @@
+Agenda:
+
+Types of Appliocations
+---------------------- 
+stand alone applications / desktop
+one tier
+two tier
+three tier
+
+Monolothic / Micoservices 
+------------------------- 
+
+Eg: Ecommerce Appliocations 
+Model: Monolothic 
+
+Project:
+========
+1.Electronics (Apps)
+2.Fashion (Apps)
+3.Mobiles  (Apps)
+4.Furtniture (Apps)
+
+Note: Doing changes in the project is difficult for developers, takes long time for changes
+
+Monolothic: Java / Python etc...
+
+Microservices
+------------- 
+1.Electronics (Microservices) - Java (end points, urls)
+
+2.Fashion (Microservices) - Python (end points, urls)
+ 
+3.Mobiles (Microservices) - PHP (end points, urls)
+
+4.Furtniture (Microservices) - Node JS (JavaScript) (end points, urls)
+
+Integrate:
+---------- 
+1.Java
+2.Python
+3.PHP
+4.Node Js
+
+Web Services
+============
+XML, JSON (Translators)
+
+Java Developer -- Web Services (end points, urls)
+Python Developer -- Web Services (end points, urls)
+
+F/M React js / Angular / Next Js
+--------------------------------
+React Developer (Services)
+Angular Developer (Services)
+
+Full Stack Development
+======================
+(Presentation Layer)Services ---- (Backedn)Endpoints (Application)
+
+LMS
+===
+Backend : Node JS
+PL      : React Js
+Backedn : Mongo DB
+
+xml / json
+@RequestMapping(method = Request.POST(url = "http://username, password))
+public void createAccount(username, password){
+
+}
