@@ -24,3 +24,79 @@ Java(Compiler/Interpreter), Python(Interpreter), Javascript(Interpreter), PHP(In
 Create Github Account
 Create AWS Account
 Create Azure Account
+
+Java s/w :
+==========
+admins-MacBook-Air:~ admin$ java --version
+java 20.0.1 2023-04-18
+Java(TM) SE Runtime Environment (build 20.0.1+9-29)
+Java HotSpot(TM) 64-Bit Server VM (build 20.0.1+9-29, mixed mode, sharing)
+admins-MacBook-Air:~ admin$ 
+
+Python s/w:
+===========
+python3
+Python 3.11.3 (v3.11.3:f3909b8bc8, Apr  4 2023, 20:12:10) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
+
+JavaScript s/w:
+==============
+admins-MacBook-Air:~ admin$ node --version
+v19.9.0
+
+JAVA EXECUTION:
+============== 
+COMPILATION :
+INTERPRETER :
+admins-MacBook-Air:Basics admin$ javac Hello.java
+admins-MacBook-Air:Basics admin$ java Hello
+HELLO WORLD
+admins-MacBook-Air:Basics admin$ 
+
+admins-MacBook-Air:Basics admin$ java Hello.java
+HELLO WORLD
+
+Python Execution:
+admins-MacBook-Air:Basics admin$ python3 Hello.py
+Hello World
+admins-MacBook-Air:Basics admin$ 
+
+JavaScript:
+admin@admins-MacBook-Air Basics % node Hello.js
+Hello world!
+
+Git S/w
+=======
+Git VCS (Version Control System)
+admins-MacBook-Air:~ admin$ git --version 
+git version 2.40.0
+
+Github:
+=======
+Repositories ----> Git
+
+Commands:
+========
+admins-MacBook-Air:sajeed admin$:
+
+Get the repo from github:
+========================
+git clone "git@github.com:SS224/Test101.git"
+
+To store the new files:
+=======================
+admins-MacBook-Air:Test101 admin$ git status
+admins-MacBook-Air:Test101 admin$ git add .
+admins-MacBook-Air:Test101 admin$ git commit -m "v1.1.1"
+admins-MacBook-Air:Test101 admin$ git push
+
+Collabarator:
+=============
+git clone "https://github.com/SS224/Fundamentals01.git"
+
+git fetch
+git pull
+
+
+
