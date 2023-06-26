@@ -1,0 +1,86 @@
+SDLC : Software Development Lifecycle
+
+1.Requirements (Bussiness Analylist and Product Analylist)
+2.Feasibility Study (BA, HR, Architect, Designer)
+3.Design : 
+  HLD : High Level Design
+  LLD : Low Level Design
+4.Coding : Developer
+5.Testing : Testing
+6.Development : Installation Team
+7.Maintainance
+
+SDLC Models:
+
+1.Waterfall Model
+2.Agile Model 
+
+3.Prototype Model
+4.Spiral Model
+
+1.Waterfall Model
+================= 
+Ecommerce Product (Cars Rentals)
+
+1.Customers Register (module one)
+2.Login (module two)
+3.Search Vehicles (module three)
+4.Payemnt Gateway (module four)
+
+Note:
+Simple and East to Understand 
+Easy for Development
+Best for small projects 
+In the middle of development of project changes will be difficult for developers
+
+1.Developers
+2.Testers
+3.Devops
+
+2. Agile Model 
+============== 
+Agile is an Iterative Approach 
+Each Iteration will take 1 to 4 weeks of time
+Software development will be faster
+The single phase of Agile Methodology will take 8 to 16 months
+
+1.Customers Register (module one)
+  Developer, Testing
+2.Login (module two)
+  Developer, Testing
+3.Search Vehicles (module three)
+  Developer, Testing
+4.Payemnt Gateway (module four)
+  Developer, Testing
+5 OTP
+6 Utility (Emails)
+
+1.Scrum Master or Product Owner
+------------------------------- 
+Tools: Jira (bug tracking tool, work maintenance chart)
+
+Scrum Master:
+------------ 
+1.Meetings
+2.Daily Standups
+3.Review of Product
+
+Sprint-1 
+Planning 
+Design
+Build 
+Test
+Review
+
+Sprint-2
+Planning 
+Design
+Build 
+Test
+Review
+
+Backlog
+=======
+In Agile Model BA will prepare backlogs 
+In product backlog contains all the requiremnets about the product based on priority order
+Backlog contains user-stories
